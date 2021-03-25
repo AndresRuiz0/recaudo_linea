@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "cedula": "12345678",
+        "Documento": "1026160405",
         "valor1": 5000,
-        "celular": 31333333333,
-        "email": "andres.ruiz@payco.co"
+        "celular": 3136977994,
+        "email": "andres.ruiz0@hotmail.com"
     },
     {
         "id": 2,
-        "cedula": "2345789",
+        "Documento": "2345789",
         "valor1": 6000,
         "celular": 31333333333,
         "email": "andres.ruiz@payco.co"
     },
     {
         "id": 3,
-        "cedula": "67894512",
+        "Documento": "67894512",
         "valor1": 7000,
         "celular": 31333333333,
         "email": "andres.ruiz@payco.co"
     },
     {
         "id": 4,
-        "cedula": "69874512",
+        "Documento": "69874512",
         "valor1": 8000,
         "celular": 31333333333,
         "email": "andres.ruiz@payco.co"
     },
     {
         "id": 5,
-        "cedula": "02345785",
+        "Documento": "02345785",
         "valor1": 9000,
         "celular": 31333333333,
         "email": "andres.ruiz@payco.co"
     },
     {
         "id": 6,
-        "cedula": "35789512",
+        "Documento": "35789512",
         "valor1": 10000,
         "celular": 31333333333,
         "email": "andres.ruiz@payco.co"
