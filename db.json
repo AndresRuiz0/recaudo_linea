@@ -2,11 +2,11 @@
     "posts": [  
         {
             "Nombre del estudiante": "Andres",
-            "Grado": 4,
+            "Grado": 6,
             "Tipo de identificacion": "TI",
             "Documento": 1234,
             "Carnet": 12344,
-            "Numero factura": 123445,
+            "Numero factura": 1234456,
             "Valor mensual": 150000,
             "Fecha de vencimiento": "30/02/2021"
         },
@@ -17,7 +17,7 @@
             "Tipo de identificacion": "TI",
             "Documento": 123456,
             "Carnet": 12344,
-            "Numero factura": 123445,
+            "Numero factura": 1234457,
             "Valor mensual": 150000,
             "Fecha de vencimiento": "30/02/2021"
         },
@@ -28,7 +28,7 @@
             "Tipo de identificacion": "TI",
             "Documento": 1237,
             "Carnet": 12344,
-            "Numero factura": 123445,
+            "Numero factura": 1234458,
             "Valor mensual": 150000,
             "Fecha de vencimiento": "30/02/2021"
         },
@@ -39,7 +39,7 @@
             "Tipo de identificacion": "TI",
             "Documento": 1234456789,
             "Carnet": 12344,
-            "Numero factura": 123445,
+            "Numero factura": 1234459,
             "Valor mensual": 150000,
             "Fecha de vencimiento": "30/02/2021"
         },
@@ -50,7 +50,7 @@
             "Tipo de identificacion": "TI",
             "Documento": 123004,
             "Carnet": 12344,
-            "Numero factura": 123445,
+            "Numero factura": 1234451,
             "Valor mensual": 150000,
             "Fecha de vencimiento": "30/02/2021"
         }
